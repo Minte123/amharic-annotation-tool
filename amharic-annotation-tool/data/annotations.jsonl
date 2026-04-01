@@ -1,0 +1,12 @@
+{
+  "sentence": "አብይ አህመድ ዛሬ በአዲስ አበባ ንግግር አደረጉ",
+  "tokens": [
+    {"word": "አብይ", "pos": "PROPN", "ner": "PER"},
+    {"word": "አህመድ", "pos": "PROPN", "ner": "PER"},
+    {"word": "ዛሬ", "pos": "ADV", "ner": "DATE"},
+    {"word": "በአዲስ", "pos": "PROPN", "ner": "LOC"},
+    {"word": "አበባ", "pos": "PROPN", "ner": "LOC"},
+    {"word": "ንግግር", "pos": "NOUN", "ner": "O"},
+    {"word": "አደረጉ", "pos": "VERB", "ner": "O"}
+  ]
+}
